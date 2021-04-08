@@ -3,7 +3,7 @@
 
 **Course Date:** 05.04.2021  
 **Name:** Fatma  
-**Surname:** ÖZ
+**Surname:** ÖZ 
 **Email:** foz19@ku.edu.tr 
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
